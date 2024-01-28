@@ -1,0 +1,15 @@
+bff76ede9fea6c4a44af919e6361606d
+bff76ede9fea6c4a44af919e6361606d
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiZmY3NmVkZTlmZWE2YzRhNDRhZjkxOWU2MzYxNjA2ZCIsInN1YiI6IjY1YjYyMmZkMmZhZjRkMDBlN2RjNjhkOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.2Hjuqh54ybu0Dh3JiQyilJ85g4PToShEtg4mXZAtaKY
+
+
+Detail = https://api.themoviedb.org/3/movie/{movie_id}
+
+Now Playing = https://api.themoviedb.org/3/movie/now_playing
+
+Popular = https://api.themoviedb.org/3/movie/popular
+
+TopRated = https://api.themoviedb.org/3/movie/top_rated
+
+Upcoming = https://api.themoviedb.org/3/movie/upcoming 
